@@ -66,5 +66,7 @@ Building a movie recommender system in data science involves using algorithms an
 Monitoring and Maintenance: Continuously monitor the performance of the recommender system in production and update it as necessary to adapt to changing user preferences or system requirements.
 
 Popular libraries for building recommender systems in Python include scikit-learn, TensorFlow, PyTorch, and Surprise. Additionally, frameworks like Apache Mahout and Apache Spark provide scalable solutions for building recommender systems on large datasets.
+ # conclusion:
+ The real next recommended movie is according to predection method Batman
 
 
