@@ -88,6 +88,9 @@ Through the stages of data collection, preprocessing, exploratory data analysis,
 Ultimately, the success of a movie recommender system lies in its ability to provide accurate and relevant recommendations to users, enhancing their movie-watching experience and increasing user engagement. With careful design, testing, and optimization, a well-implemented movie recommender system can have significant practical applications in various domains, including e-commerce, entertainment platforms, and personalized content delivery services.
  ![MasterHead](https://github.com/manikantareddychamala/MOVIE-RECOMMENDER-SYSTEM-IN-DATA-SCIENCE/issues/1#issue-2217652465)
 
+![image](https://github.com/manikantareddychamala/MOVIE-RECOMMENDER-SYSTEM-IN-DATA-SCIENCE/assets/162694056/7b3556a4-de87-4c0f-b75d-951abaacad19)
+
+
 
 
 
