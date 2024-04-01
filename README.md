@@ -69,4 +69,6 @@ Popular libraries for building recommender systems in Python include scikit-lear
  # conclusion:
  The real next recommended movie is according to predection method Batman
 
-
+[
+![image](https://github.com/manikantareddychamala/MOVIE-RECOMMENDER-SYSTEM-IN-DATA-SCIENCE/assets/162694056/0f0a7e90-154f-484c-b95d-2d544a2f68ed)
+](url)
