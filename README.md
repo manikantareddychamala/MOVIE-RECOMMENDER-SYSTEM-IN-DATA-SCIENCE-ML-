@@ -1,8 +1,7 @@
 ![image](https://github.com/manikantareddychamala/MOVIE-RECOMMENDER-SYSTEM-IN-DATA-SCIENCE/assets/162694056/8e2e9e23-f0e0-43f9-a5b9-7f8ec72bb668)  [
 ![image](https://github.com/manikantareddychamala/MOVIE-RECOMMENDER-SYSTEM-IN-DATA-SCIENCE/assets/162694056/4d9ad7a5-6cd5-4357-adc4-69f23509aa49)
 ](url)
-![MasterHead]https://github.com/manikantareddychamala/MOVIE-RECOMMENDER-SYSTEM-IN-DATA-SCIENCE/assets/162694056/a8904641-ca1c-4bcd-93fd-c7f06868a579
-
+ 
 1.This repositry represents the project "MOVIE RECOMMENDER SYSTEM IN CONTENT-BASED FILTERING"
 2.In this we used EDA[Explore the dataset a bit] and "RECOMMENDING SIMILAR MOVIES"
 #                   DATASET
@@ -87,6 +86,8 @@ Through the stages of data collection, preprocessing, exploratory data analysis,
 Through the stages of data collection, preprocessing, exploratory data analysis, feature engineering, model selection, training, evaluation, and deployment, you can create a robust and reliable recommender system. The process involves not only technical skills in programming and machine learning but also creativity in designing features and interpreting results.
 
 Ultimately, the success of a movie recommender system lies in its ability to provide accurate and relevant recommendations to users, enhancing their movie-watching experience and increasing user engagement. With careful design, testing, and optimization, a well-implemented movie recommender system can have significant practical applications in various domains, including e-commerce, entertainment platforms, and personalized content delivery services.
+ ![MasterHead](https://github.com/manikantareddychamala/MOVIE-RECOMMENDER-SYSTEM-IN-DATA-SCIENCE/assets/162694056/a8904641-ca1c-4bcd-93fd-c7f06868a579)
+
 
 
 
