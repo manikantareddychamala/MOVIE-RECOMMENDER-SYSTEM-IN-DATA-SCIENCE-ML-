@@ -75,7 +75,9 @@ Through the stages of data collection, preprocessing, exploratory data analysis,
 
 [
 ![image](https://github.com/manikantareddychamala/MOVIE-RECOMMENDER-SYSTEM-IN-DATA-SCIENCE/assets/162694056/0f0a7e90-154f-484c-b95d-2d544a2f68ed)
-](url)   
+](url)   [
+![image](https://github.com/manikantareddychamala/MOVIE-RECOMMENDER-SYSTEM-IN-DATA-SCIENCE/assets/162694056/bb5fcd91-020e-42f5-951a-627bc7496f15)
+](url)
     and 
 [
 ![image](https://github.com/manikantareddychamala/MOVIE-RECOMMENDER-SYSTEM-IN-DATA-SCIENCE/assets/162694056/4b60e65a-ab5b-421d-bd93-8b90ca6c15b3)
