@@ -11,6 +11,9 @@
 
 2.cython
 
-3.juypter notebook
+3.juypter notebook       [
+![image](https://github.com/manikantareddychamala/MOVIE-RECOMMENDER-SYSTEM-IN-DATA-SCIENCE/assets/162694056/0299fcc7-87cd-410a-870a-c349b9c9f71e)
+](url)
 # setup
+
 
