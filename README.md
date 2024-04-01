@@ -17,5 +17,9 @@
 ![image](https://github.com/manikantareddychamala/MOVIE-RECOMMENDER-SYSTEM-IN-DATA-SCIENCE/assets/162694056/8a231021-335d-4c00-b6fa-ecb88da27dab)
 
 # setup
+    $ [pip install pandas](url)
+2.install numpy
+   [pip install numpy](url)
+    
 
 
