@@ -49,6 +49,8 @@ Building a movie recommender system in data science involves using algorithms an
 
 # Exploratory Data Analysis (EDA): 
 *Explore the dataset to gain insights into the distribution of ratings, genres, and other relevant features. EDA helps in understanding the characteristics of the data and can guide the selection of algorithms.
+![WhatsApp Image 2024-04-02 at 1 19 46 PM](https://github.com/manikantareddychamala/MOVIE-RECOMMENDER-SYSTEM-IN-DATA-SCIENCE-ML-/assets/162694056/18184fb5-1f8b-45c2-9c26-4b7e6ed1e5ec)
+
 
 # Feature Engineering: 
 *Extract or create features from the dataset that can be used to build the recommender system. For example, you might create user-item interaction matrices or extract textual features from movie descriptions.
