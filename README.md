@@ -65,6 +65,8 @@ Building a movie recommender system in data science involves using algorithms an
 *Combine collaborative filtering and content-based filtering to take advantage of their respective strengths.
 # Model Training: 
 *Train the chosen recommender system model using the prepared dataset.
+![WhatsApp Image 2024-04-02 at 1 19 26 PM](https://github.com/manikantareddychamala/MOVIE-RECOMMENDER-SYSTEM-IN-DATA-SCIENCE-ML-/assets/162694056/6eb2acd4-cca7-4164-9cae-b55e07e29fb5)
+
 
 # Evaluation:
 *Evaluate the performance of the recommender system using metrics such as precision, recall, or mean absolute error. Cross-validation techniques can help assess the generalization performance of the model.
