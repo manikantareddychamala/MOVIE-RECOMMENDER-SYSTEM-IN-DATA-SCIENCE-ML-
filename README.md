@@ -34,6 +34,8 @@ https://github.com/manikantareddychamala/MOVIE-RECOMMENDER-SYSTEM-IN-DATA-SCIENC
     $ [pip install numpy](url)
 3.install Tensorflow
 
+![WhatsApp Image 2024-04-02 at 1 20 02 PM](https://github.com/manikantareddychamala/MOVIE-RECOMMENDER-SYSTEM-IN-DATA-SCIENCE-ML-/assets/162694056/2e9293ad-7ce0-4ca0-b0b4-ca67c7ca107d)
+
    
 
 # DESCRIPTION
