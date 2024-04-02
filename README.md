@@ -3,6 +3,9 @@
 ](url)
  
 1.This repositry represents the project "MOVIE RECOMMENDER SYSTEM IN CONTENT-BASED FILTERING"
+
+https://github.com/manikantareddychamala/MOVIE-RECOMMENDER-SYSTEM-IN-DATA-SCIENCE-ML-/assets/162694056/64987ac9-e07f-4c55-9409-aca561a7ed54
+
 2.In this we used EDA[Explore the dataset a bit] and "RECOMMENDING SIMILAR MOVIES"
 #                   DATASET
 .The data that is used in process is "Movie lens" to get the dataset.
