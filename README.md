@@ -86,9 +86,10 @@ Through the stages of data collection, preprocessing, exploratory data analysis,
 Through the stages of data collection, preprocessing, exploratory data analysis, feature engineering, model selection, training, evaluation, and deployment, you can create a robust and reliable recommender system. The process involves not only technical skills in programming and machine learning but also creativity in designing features and interpreting results.
 
 Ultimately, the success of a movie recommender system lies in its ability to provide accurate and relevant recommendations to users, enhancing their movie-watching experience and increasing user engagement. With careful design, testing, and optimization, a well-implemented movie recommender system can have significant practical applications in various domains, including e-commerce, entertainment platforms, and personalized content delivery services.
-      ![MasterHead](https://github.com/manikantareddychamala/MOVIE-RECOMMENDER-SYSTEM-IN-DATA-SCIENCE/issues/1#issue-2217652465)
+ 
 
-   
+https://github.com/manikantareddychamala/MOVIE-RECOMMENDER-SYSTEM-IN-DATA-SCIENCE/assets/162694056/2a812b68-f5b9-4c74-90be-7c8480a91a67
+
     
    ![image](https://github.com/manikantareddychamala/MOVIE-RECOMMENDER-SYSTEM-IN-DATA-SCIENCE/assets/162694056/7b3556a4-de87-4c0f-b75d-951abaacad19)
 
