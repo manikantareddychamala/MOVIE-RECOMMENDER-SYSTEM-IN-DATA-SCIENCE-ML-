@@ -1,8 +1,12 @@
 ![image](https://github.com/manikantareddychamala/MOVIE-RECOMMENDER-SYSTEM-IN-DATA-SCIENCE/assets/162694056/8e2e9e23-f0e0-43f9-a5b9-7f8ec72bb668)  [
-![image](https://github.com/manikantareddychamala/MOVIE-RECOMMENDER-SYSTEM-IN-DATA-SCIENCE/assets/162694056/4d9ad7a5-6cd5-4357-adc4-69f23509aa49)
-](url)
+![image](https://github.com/manikantareddychamala/MOVIE-RECOMMENDER-SYSTEM-IN-DATA-SCIENCE/assets/162694056/4d9ad7a5-6cd5-4357-adc4-69f23509aa49)   
+
+
  
-1.This repositry represents the project "MOVIE RECOMMENDER SYSTEM IN CONTENT-BASED FILTERING"
+1.This repositry represents the project "MOVIE RECOMMENDER SYSTEM IN CONTENT-BASED FILTERING"  [
+
+![image](https://github.com/manikantareddychamala/MOVIE-RECOMMENDER-SYSTEM-IN-DATA-SCIENCE-ML-/assets/162694056/4fee8fb3-d025-47f8-9e83-5cc4fe361c1a)
+](url)
 
 https://github.com/manikantareddychamala/MOVIE-RECOMMENDER-SYSTEM-IN-DATA-SCIENCE-ML-/assets/162694056/64987ac9-e07f-4c55-9409-aca561a7ed54  
 
